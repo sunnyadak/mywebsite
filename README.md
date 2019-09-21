@@ -1,6 +1,5 @@
 # mywebsite
 
 My website is the best
-Something edited
 
-Sunny Adak Zindabad
+Jai Hind (updated locally)
